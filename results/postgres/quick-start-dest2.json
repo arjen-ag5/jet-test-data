@@ -16,7 +16,11 @@
 				"ReplacementCost": 24.99,
 				"Rating": "NC-17",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{Trailers,\"Deleted Scenes\",\"Behind the Scenes\"}",
+				"SpecialFeatures": [
+					"Trailers",
+					"Deleted Scenes",
+					"Behind the Scenes"
+				],
 				"Fulltext": "'action':5 'action-pack':4 'baloon':21 'boy':10 'chase':16 'evolut':2 'king':1 'lumberjack':13 'madman':18 'must':15 'pack':6 'tale':7"
 			},
 			{
@@ -31,7 +35,10 @@
 				"ReplacementCost": 20.99,
 				"Rating": "G",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{Commentaries,\"Behind the Scenes\"}",
+				"SpecialFeatures": [
+					"Commentaries",
+					"Behind the Scenes"
+				],
 				"Fulltext": "'bake':1 'cleopatra':2 'drama':5 'forens':8 'husband':12 'monasteri':20 'must':14 'overcom':15 'psychologist':9 'stun':4 'waitress':17"
 			}
 		],
@@ -97,7 +104,10 @@
 				"ReplacementCost": 9.99,
 				"Rating": "G",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{Trailers,\"Behind the Scenes\"}",
+				"SpecialFeatures": [
+					"Trailers",
+					"Behind the Scenes"
+				],
 				"Fulltext": "'administr':12 'boat':8 'boy':17 'databas':11 'first':20 'languag':2 'man':21 'meet':15 'must':14 'space':22 'station':23 'unbeliev':4 'yarn':5 'young':1"
 			},
 			{
@@ -112,7 +122,10 @@
 				"ReplacementCost": 27.99,
 				"Rating": "NC-17",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{\"Deleted Scenes\",\"Behind the Scenes\"}",
+				"SpecialFeatures": [
+					"Deleted Scenes",
+					"Behind the Scenes"
+				],
 				"Fulltext": "'ancient':20 'awe':5 'awe-inspir':4 'confront':16 'epistl':7 'feminist':13 'inspir':6 'japan':21 'must':15 'pioneer':18 'teacher':10 'turn':2 'wife':1"
 			}
 		],
@@ -202,7 +215,10 @@
 				"ReplacementCost": 23.99,
 				"Rating": "PG-13",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{Trailers,\"Behind the Scenes\"}",
+				"SpecialFeatures": [
+					"Trailers",
+					"Behind the Scenes"
+				],
 				"Fulltext": "'georgia':20 'lacklustur':4 'monkey':17 'must':14 'pocus':2 'red':1 'redeem':15 'soviet':19 'squirrel':12 'sumo':8 'wrestler':9 'yarn':5"
 			},
 			{
@@ -217,7 +233,11 @@
 				"ReplacementCost": 15.99,
 				"Rating": "R",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{Trailers,Commentaries,\"Behind the Scenes\"}",
+				"SpecialFeatures": [
+					"Trailers",
+					"Commentaries",
+					"Behind the Scenes"
+				],
 				"Fulltext": "'agent':12 'challeng':15 'convent':21 'home':1 'man':8 'must':14 'mysql':20 'panorama':5 'piti':2 'secret':11 'teacher':17 'touch':4"
 			},
 			{
@@ -232,7 +252,10 @@
 				"ReplacementCost": 13.99,
 				"Rating": "NC-17",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{Commentaries,\"Behind the Scenes\"}",
+				"SpecialFeatures": [
+					"Commentaries",
+					"Behind the Scenes"
+				],
 				"Fulltext": "'car':8 'confront':14 'duck':2 'fate':4 'monasteri':19 'must':13 'reflect':5 'scalawag':1 'teacher':11 'waitress':16"
 			}
 		],
@@ -352,7 +375,10 @@
 				"ReplacementCost": 14.99,
 				"Rating": "PG-13",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{Commentaries,\"Deleted Scenes\"}",
+				"SpecialFeatures": [
+					"Commentaries",
+					"Deleted Scenes"
+				],
 				"Fulltext": "'abandon':19 'battl':14 'cabin':2 'emot':4 'frontier':1 'fun':20 'hous':21 'madman':8 'must':13 'stori':5 'teacher':16 'waitress':11"
 			},
 			{
@@ -367,7 +393,12 @@
 				"ReplacementCost": 24.99,
 				"Rating": "R",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{Trailers,Commentaries,\"Deleted Scenes\",\"Behind the Scenes\"}",
+				"SpecialFeatures": [
+					"Trailers",
+					"Commentaries",
+					"Deleted Scenes",
+					"Behind the Scenes"
+				],
 				"Fulltext": "'apollo':2 'beauti':4 'conquer':15 'convent':22 'monkey':8 'must':14 'mysql':21 'shark':18 'stori':5 'sumo':11 'wild':1 'wrestler':12"
 			},
 			{
@@ -382,7 +413,9 @@
 				"ReplacementCost": 17.99,
 				"Rating": "NC-17",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{Commentaries}",
+				"SpecialFeatures": [
+					"Commentaries"
+				],
 				"Fulltext": "'abandon':19 'boat':8,16 'documentari':5 'fun':20 'hous':21 'man':11 'meet':14 'must':13 'runaway':1 'tenenbaum':2 'thought':4"
 			}
 		],
@@ -484,7 +517,10 @@
 				"ReplacementCost": 21.99,
 				"Rating": "R",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{Trailers,\"Behind the Scenes\"}",
+				"SpecialFeatures": [
+					"Trailers",
+					"Behind the Scenes"
+				],
 				"Fulltext": "'abandon':19 'brilliant':4 'dentist':16 'explor':11 'fun':20 'hous':21 'hunter':8 'love':1 'must':13 'panorama':5 'pursu':14 'suicid':2"
 			},
 			{
@@ -499,7 +535,10 @@
 				"ReplacementCost": 19.99,
 				"Rating": "R",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{Trailers,\"Behind the Scenes\"}",
+				"SpecialFeatures": [
+					"Trailers",
+					"Behind the Scenes"
+				],
 				"Fulltext": "'analyz':1 'chef':12 'desert':21 'display':5 'explor':8 'feminist':17 'hoosier':2 'must':14 'overcom':15 'pastri':11 'sahara':20 'thought':4"
 			}
 		],
@@ -565,7 +604,12 @@
 				"ReplacementCost": 27.99,
 				"Rating": "R",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{Trailers,Commentaries,\"Deleted Scenes\",\"Behind the Scenes\"}",
+				"SpecialFeatures": [
+					"Trailers",
+					"Commentaries",
+					"Deleted Scenes",
+					"Behind the Scenes"
+				],
 				"Fulltext": "'confront':15 'evolut':2 'first':20 'lacklustur':4 'man':21 'must':14 'panorama':5 'pioneer':12 'shark':9 'soldier':1 'space':22 'station':23 'student':17"
 			}
 		],
@@ -643,7 +687,9 @@
 				"ReplacementCost": 9.99,
 				"Rating": "PG",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{Commentaries}",
+				"SpecialFeatures": [
+					"Commentaries"
+				],
 				"Fulltext": "'car':12 'charact':5 'cow':18 'girl':9 'insight':4 'mad':17 'must':14 'oper':2 'pursu':15 'shark':21 'star':1 'studi':6 'tank':22"
 			},
 			{
@@ -658,7 +704,9 @@
 				"ReplacementCost": 11.99,
 				"Rating": "PG",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{\"Behind the Scenes\"}",
+				"SpecialFeatures": [
+					"Behind the Scenes"
+				],
 				"Fulltext": "'amaz':4 'build':15 'compos':12 'drama':5 'husband':17 'mad':8 'must':14 'outback':20 'record':1 'scientist':9 'zorro':2"
 			},
 			{
@@ -673,7 +721,9 @@
 				"ReplacementCost": 18.99,
 				"Rating": "R",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{\"Behind the Scenes\"}",
+				"SpecialFeatures": [
+					"Behind the Scenes"
+				],
 				"Fulltext": "'ancient':19 'china':20 'control':2 'documentari':5 'face':14 'feminist':11 'husband':8 'mad':16 'must':13 'scientist':17 'smoochi':1 'thrill':4"
 			}
 		],
@@ -787,7 +837,10 @@
 				"ReplacementCost": 29.99,
 				"Rating": "G",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{\"Deleted Scenes\",\"Behind the Scenes\"}",
+				"SpecialFeatures": [
+					"Deleted Scenes",
+					"Behind the Scenes"
+				],
 				"Fulltext": "'boy':8 'car':17 'insight':4 'lawless':1 'must':14 'outback':20 'outgun':15 'sumo':11 'vision':2 'wrestler':12 'yarn':5"
 			},
 			{
@@ -802,7 +855,10 @@
 				"ReplacementCost": 9.99,
 				"Rating": "PG-13",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{\"Deleted Scenes\",\"Behind the Scenes\"}",
+				"SpecialFeatures": [
+					"Deleted Scenes",
+					"Behind the Scenes"
+				],
 				"Fulltext": "'compos':8 'fate':4 'first':19 'man':20 'mermaid':2 'monkey':11 'must':13 'space':21 'station':22 'theori':1 'vanquish':14 'woman':16 'yarn':5"
 			},
 			{
@@ -817,7 +873,9 @@
 				"ReplacementCost": 27.99,
 				"Rating": "PG-13",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{\"Behind the Scenes\"}",
+				"SpecialFeatures": [
+					"Behind the Scenes"
+				],
 				"Fulltext": "'berlin':20 'charact':5 'confront':16 'frisbe':18 'gang':1 'must':15 'pride':2 'shark':13 'studi':6 'taut':4 'woman':9"
 			},
 			{
@@ -832,7 +890,10 @@
 				"ReplacementCost": 11.99,
 				"Rating": "NC-17",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{Commentaries,\"Behind the Scenes\"}",
+				"SpecialFeatures": [
+					"Commentaries",
+					"Behind the Scenes"
+				],
 				"Fulltext": "'ancient':20 'battl':16 'charact':5 'china':21 'cow':13 'explor':9 'hunter':18 'interview':2 'mad':12 'must':15 'son':1 'studi':6 'taut':4"
 			},
 			{
@@ -847,7 +908,11 @@
 				"ReplacementCost": 25.99,
 				"Rating": "PG-13",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{Trailers,Commentaries,\"Behind the Scenes\"}",
+				"SpecialFeatures": [
+					"Trailers",
+					"Commentaries",
+					"Behind the Scenes"
+				],
 				"Fulltext": "'ancient':18 'battl':14 'boat':11 'china':19 'drama':5 'feminist':16 'must':13 'pond':1 'seattl':2 'stun':4 'teacher':8"
 			}
 		],
@@ -1009,7 +1074,10 @@
 				"ReplacementCost": 12.99,
 				"Rating": "G",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{Trailers,\"Deleted Scenes\"}",
+				"SpecialFeatures": [
+					"Trailers",
+					"Deleted Scenes"
+				],
 				"Fulltext": "'compos':16 'drama':5 'epic':4 'feminist':8 'fool':2 'moonwalk':1 'must':13 'new':18 'orlean':19 'pioneer':11 'sink':14"
 			},
 			{
@@ -1024,7 +1092,10 @@
 				"ReplacementCost": 20.99,
 				"Rating": "PG",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{Commentaries,\"Behind the Scenes\"}",
+				"SpecialFeatures": [
+					"Commentaries",
+					"Behind the Scenes"
+				],
 				"Fulltext": "'astound':4 'boat':21 'car':11 'caus':2 'crocodil':8 'monsoon':1 'must':13 'outrac':14 'squirrel':16 'tale':5 'u':20 'u-boat':19"
 			},
 			{
@@ -1039,7 +1110,9 @@
 				"ReplacementCost": 22.99,
 				"Rating": "R",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{\"Behind the Scenes\"}",
+				"SpecialFeatures": [
+					"Behind the Scenes"
+				],
 				"Fulltext": "'abandon':22 'administr':11 'amus':23 'compos':14 'databas':10 'defeat':17 'fast':5 'fast-pac':4 'haunt':1 'must':16 'pace':6 'park':24 'pianist':2 'squirrel':19 'stori':7"
 			},
 			{
@@ -1054,7 +1127,10 @@
 				"ReplacementCost": 11.99,
 				"Rating": "PG-13",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{\"Deleted Scenes\",\"Behind the Scenes\"}",
+				"SpecialFeatures": [
+					"Deleted Scenes",
+					"Behind the Scenes"
+				],
 				"Fulltext": "'battl':15 'california':19 'chicago':1 'cow':9 'fate':4 'mad':8 'must':14 'north':2 'student':17 'waitress':12 'yarn':5"
 			}
 		],
@@ -1222,7 +1298,9 @@
 				"ReplacementCost": 9.99,
 				"Rating": "G",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{Commentaries}",
+				"SpecialFeatures": [
+					"Commentaries"
+				],
 				"Fulltext": "'anthem':2 'battl':14 'cat':16 'control':1 'documentari':5 'fate':4 'monasteri':19 'must':13 'robot':8 'student':11"
 			},
 			{
@@ -1237,7 +1315,12 @@
 				"ReplacementCost": 18.99,
 				"Rating": "R",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{Trailers,Commentaries,\"Deleted Scenes\",\"Behind the Scenes\"}",
+				"SpecialFeatures": [
+					"Trailers",
+					"Commentaries",
+					"Deleted Scenes",
+					"Behind the Scenes"
+				],
 				"Fulltext": "'berlin':18 'boy':11 'butler':8 'epistl':5 'fate':4 'must':13 'name':2 'redeem':14 'saturn':1 'teacher':16"
 			},
 			{
@@ -1252,7 +1335,12 @@
 				"ReplacementCost": 22.99,
 				"Rating": "NC-17",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{Trailers,Commentaries,\"Deleted Scenes\",\"Behind the Scenes\"}",
+				"SpecialFeatures": [
+					"Trailers",
+					"Commentaries",
+					"Deleted Scenes",
+					"Behind the Scenes"
+				],
 				"Fulltext": "'ancient':21 'car':10 'fast':5 'fast-pac':4 'japan':22 'kill':17 'mad':13 'must':16 'pace':6 'scientist':14 'searcher':1 'tale':7 'wait':2 'woman':19"
 			}
 		],
@@ -1330,7 +1418,11 @@
 				"ReplacementCost": 16.99,
 				"Rating": "PG-13",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{Trailers,\"Deleted Scenes\",\"Behind the Scenes\"}",
+				"SpecialFeatures": [
+					"Trailers",
+					"Deleted Scenes",
+					"Behind the Scenes"
+				],
 				"Fulltext": "'baloon':20 'chef':17 'conquer':14 'frisco':2 'husband':11 'insight':4 'jacket':1 'must':13 'pastri':16 'reflect':5 'woman':8"
 			}
 		],
@@ -1414,7 +1506,9 @@
 				"ReplacementCost": 28.99,
 				"Rating": "PG-13",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{\"Behind the Scenes\"}",
+				"SpecialFeatures": [
+					"Behind the Scenes"
+				],
 				"Fulltext": "'challeng':16 'chef':9 'happi':2 'hotel':1 'mad':18 'must':15 'outback':22 'pastri':8 'scientist':19 'shark':13 'thrill':4 'yarn':5"
 			},
 			{
@@ -1429,7 +1523,10 @@
 				"ReplacementCost": 17.99,
 				"Rating": "NC-17",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{Trailers,\"Deleted Scenes\"}",
+				"SpecialFeatures": [
+					"Trailers",
+					"Deleted Scenes"
+				],
 				"Fulltext": "'boat':23 'compos':13 'display':7 'fast':5 'fast-pac':4 'fight':16 'forens':18 'jet':22 'must':15 'pace':6 'psychologist':19 'queen':2 'soror':1 'squirrel':10"
 			},
 			{
@@ -1444,7 +1541,9 @@
 				"ReplacementCost": 10.99,
 				"Rating": "G",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{\"Deleted Scenes\"}",
+				"SpecialFeatures": [
+					"Deleted Scenes"
+				],
 				"Fulltext": "'boat':22 'charact':5 'explor':9 'fanci':4 'intrigu':1 'jet':21 'mad':12 'must':15 'scientist':13 'squirrel':18 'studi':6 'vanquish':16 'worst':2"
 			},
 			{
@@ -1459,7 +1558,10 @@
 				"ReplacementCost": 10.99,
 				"Rating": "G",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{Trailers,\"Behind the Scenes\"}",
+				"SpecialFeatures": [
+					"Trailers",
+					"Behind the Scenes"
+				],
 				"Fulltext": "'amistad':2 'bore':4 'catch':1 'discov':14 'feminist':11 'lumberjack':8 'must':13 'nigeria':18 'reflect':5 'woman':16"
 			},
 			{
@@ -1474,7 +1576,10 @@
 				"ReplacementCost": 22.99,
 				"Rating": "NC-17",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{Trailers,Commentaries}",
+				"SpecialFeatures": [
+					"Trailers",
+					"Commentaries"
+				],
 				"Fulltext": "'ancient':22 'break':2 'charact':7 'chef':20 'crystal':1 'explor':14 'face':17 'fast':5 'fast-pac':4 'feminist':11 'japan':23 'must':16 'pace':6 'pastri':19 'studi':8"
 			}
 		],
@@ -1630,7 +1735,10 @@
 				"ReplacementCost": 27.99,
 				"Rating": "PG-13",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{Trailers,Commentaries}",
+				"SpecialFeatures": [
+					"Trailers",
+					"Commentaries"
+				],
 				"Fulltext": "'abandon':21 'awe':5 'awe-inspir':4 'conquer':16 'conspiraci':1 'crocodil':18 'frisbe':13 'inspir':6 'mine':22 'must':15 'shaft':23 'spirit':2 'stori':7 'student':10"
 			}
 		],
@@ -1678,7 +1786,9 @@
 				"ReplacementCost": 23.99,
 				"Rating": "G",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{\"Deleted Scenes\"}",
+				"SpecialFeatures": [
+					"Deleted Scenes"
+				],
 				"Fulltext": "'ancient':19 'bright':2 'husband':12 'india':20 'madman':17 'muscl':1 'must':14 'panorama':5 'redeem':15 'stun':4 'sumo':8 'wrestler':9"
 			},
 			{
@@ -1693,7 +1803,9 @@
 				"ReplacementCost": 27.99,
 				"Rating": "R",
 				"LastUpdate": "2013-05-26T14:50:58.951Z",
-				"SpecialFeatures": "{\"Deleted Scenes\"}",
+				"SpecialFeatures": [
+					"Deleted Scenes"
+				],
 				"Fulltext": "'baloon':21 'brotherhood':2 'chase':15 'epistl':5 'forens':17 'hunter':12 'must':14 'psychologist':18 'sumo':8 'sweet':1 'unbeliev':4 'wrestler':9"
 			}
 		],
