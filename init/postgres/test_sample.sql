@@ -425,3 +425,14 @@ CREATE TABLE test_sample.sample_ranges (
 
 INSERT INTO test_sample.sample_ranges (date_range, timestamp_range, timestampz_range, int4_range, int8_range, num_range)
     VALUES ('[2023-09-25, 2024-02-10)','[2020-01-01 00:00:00, 2021-01-01 15:00:00]','[2024-05-07 17:00:00 +02,2024-10-11 16:00:00 +02)','[11,20)','[200,2450)','[2000,5000)');
+
+--- Array fields table; contains all the array types that are currently supported
+CREATE TABLE test_sample.sample_arrays (
+       text_array text[] NOT NULL DEFAULT array[]::text[],
+       bool_array bool[] NOT NULL DEFAULT array[]::bool[],
+       int4_array int4[] NOT NULL DEFAULT array[]::int4[],
+       int8_array int8[] NOT NULL DEFAULT array[]::int8[]
+);
+
+INSERT INTO test_sample.sample_arrays (text_array, bool_array, int4_array, int8_array)
+VALUES ('{"a", "b"}','{true}','{1, 2, 3}','{10, 11, 12}');
